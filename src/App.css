@@ -1,0 +1,127 @@
+.previous-year-banner {
+  background-color: #d19685;
+  color: whitesmoke;
+  font-family: EasterCaps;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  padding: 1em;
+  font-weight: bold;
+}
+.background-blue {
+  background-color: #78aac9;
+  overflow: hidden;
+}
+.partial-width-container {
+  margin: auto;
+  width: 1200px;
+  max-width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  margin-bottom: 3em;
+  font-size: calc(10px + 2vmin);
+  font-family: EasterCaps;
+}
+
+.carton-section {
+  margin: auto;
+  width: 800px;
+  max-width: 100%;
+  margin-bottom: 3em;
+}
+
+.carton-container {
+  pointer-events: none;
+  padding-bottom: 100%;
+  position: relative;
+}
+
+.carton-of-fame {
+  width: inherit;
+  position: absolute;
+}
+
+.shine {
+  top: -5%;
+  left: -4%;
+  width: inherit;
+  position: absolute;
+  /* width: 98%;
+  padding: 1%; */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .shine {
+    animation: shine-spin infinite 120s linear;
+  }
+}
+
+@keyframes shine-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.hints-section {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  /* font-size: 1.1em; */
+  font-family: "Roboto Condensed";
+}
+
+.hints-section p {
+  font-family: "Roboto Condensed";
+}
+
+.hints-section h2 {
+  font-family: EasterCaps;
+  font-weight: bold;
+}
+
+.egg-hints {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  font-family: "Roboto Condensed";
+}
+
+@media only screen and (max-width: 800px) {
+  .egg-hints {
+    grid-template-columns: 1fr;
+  }
+}
+
+.egg-hints .egg-hint {
+  text-align: center;
+  margin-top: 2.5em;
+}
+
+.egg-hints img {
+  width: 100%;
+}
+
+.egg-hints .found {
+  margin-bottom: 1em;
+}
+
+.egg-hints p {
+  margin-top: 0;
+}
+
+.hints-section {
+  font-family: Arial, Helvetica, sans-serif;
+}
