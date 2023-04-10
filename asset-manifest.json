@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ede28aa7.css",
+    "main.js": "/static/js/main.b75353ad.js",
+    "static/js/787.e74a679f.chunk.js": "/static/js/787.e74a679f.chunk.js",
+    "static/media/egg-11-found-edit.jpg": "/static/media/egg-11-found-edit.b214d163f373e628417a.jpg",
+    "static/media/egg-12-found-edit.jpg": "/static/media/egg-12-found-edit.f7b449800c97cdb64303.jpg",
+    "static/media/Stage 4I.png": "/static/media/Stage 4I.33a99e019303f5c7c6a2.png",
+    "static/media/Stage 4K.png": "/static/media/Stage 4K.d424e8bb4ea3f77b1600.png",
+    "static/media/Stage 4A.png": "/static/media/Stage 4A.2c6590128514243a1d4e.png",
+    "static/media/Stage 4G.png": "/static/media/Stage 4G.5656b909321494de40d5.png",
+    "static/media/Stage 4L.png": "/static/media/Stage 4L.27b1fdc62fe6f3a116ea.png",
+    "static/media/Stage 4E.png": "/static/media/Stage 4E.8aa5591e5d58e3363b61.png",
+    "static/media/Stage 4J.png": "/static/media/Stage 4J.4579e76bdd58355e78f0.png",
+    "static/media/Stage 4H.png": "/static/media/Stage 4H.e9d09b4d3f60d479575c.png",
+    "static/media/Stage 4F.png": "/static/media/Stage 4F.e57b5e3b5baddd847005.png",
+    "static/media/Stage 4B.png": "/static/media/Stage 4B.595e1fb994379b17e8cf.png",
+    "static/media/Stage 4C.png": "/static/media/Stage 4C.33854a50755a72cd79b8.png",
+    "static/media/Stage 4D.png": "/static/media/Stage 4D.8191eeb9e22733c5af89.png",
+    "static/media/carton-of-fame.svg": "/static/media/carton-of-fame.98151520cef5be46396477dfddc16e2e.svg",
+    "static/media/egg-7-found-edit.jpg": "/static/media/egg-7-found-edit.d74eeb54ed69c342f8aa.jpg",
+    "static/media/egg-1-found-edit.jpg": "/static/media/egg-1-found-edit.45e6cadd94f43a8aa46d.jpg",
+    "static/media/egg-9-found-edit.jpg": "/static/media/egg-9-found-edit.3225ecfb8d064a4e3c30.jpg",
+    "static/media/egg-5-found-edit.jpg": "/static/media/egg-5-found-edit.c4ebb4b4f78611f5067a.jpg",
+    "static/media/egg-3-found-edit.jpg": "/static/media/egg-3-found-edit.d283fdda3f20e7823571.jpg",
+    "static/media/egg-8-found-edit.jpg": "/static/media/egg-8-found-edit.601acfe5fc7d847c09ad.jpg",
+    "static/media/egg-4-found-edit.jpg": "/static/media/egg-4-found-edit.16046d0a53ba33e627ee.jpg",
+    "static/media/egg-10-found-edit.jpg": "/static/media/egg-10-found-edit.c0e6496e412c259fb007.jpg",
+    "static/media/egg-2-found-edit.jpg": "/static/media/egg-2-found-edit.970789d6ce291ee2b552.jpg",
+    "static/media/egg-6-found-edit.jpg": "/static/media/egg-6-found-edit.92e4c6e7400935cf26c0.jpg",
+    "static/media/easter-eggs-caps.ttf": "/static/media/easter-eggs-caps.2aba85b4be72cd41223a.ttf",
+    "index.html": "/index.html",
+    "static/media/shine.svg": "/static/media/shine.bdef8523834b0486834818a2795b1c2c.svg",
+    "main.ede28aa7.css.map": "/static/css/main.ede28aa7.css.map",
+    "main.b75353ad.js.map": "/static/js/main.b75353ad.js.map",
+    "787.e74a679f.chunk.js.map": "/static/js/787.e74a679f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede28aa7.css",
+    "static/js/main.b75353ad.js"
+  ]
+}
